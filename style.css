@@ -1,3 +1,59 @@
 body {
-    background-color: black;
+    background-color: rgb(255, 205, 159);
+}
+
+ h3 {
+    margin: auto;
+    text-align: center;
+    font-size : 200%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: auto;
+    text-align : center;
+    padding: 5%;
+    font-size: 150%;
+    height: auto;
+    clear: both;
+}
+
+#signin{
+    background-color: rgba(255, 153, 0, 0.301);
+    border: 1px black solid;
+    margin: auto;
+}
+
+#signup{
+    background-color: rgba(255, 153, 0, 0.301);
+    border: 1px black solid;
+    margin: auto;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+}
+.signupinfo{
+    background-color: rgba(255, 153, 0, 0.301);
+    border: 1px black solid;
+    height: auto;
+    margin-top: 2%;
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 25%;
+    font-size: 150%;
+}
+
+.logout{
+    background-color: rgba(255, 153, 0, 0.301);
+    border: 1px black solid;
+    height: auto;
+    margin-top: 20%;
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 25%;
+    font-size: 150%;
 }
